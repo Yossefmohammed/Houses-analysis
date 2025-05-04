@@ -4,7 +4,7 @@ This project contains an in-depth analysis of housing data using Python and vari
 
 ## Overview
 
-The `data-analysis-houses.ipynb` notebook performs exploratory data analysis (EDA) on housing data, likely including features such as:
+The `https://github.com/Yossefmohammed/Houses-analysis/blob/main/data-analysis-houses.ipynb` notebook performs exploratory data analysis (EDA) on housing data, likely including features such as:
 - Property characteristics (size, rooms, location)
 - Price analysis
 - Market trends
